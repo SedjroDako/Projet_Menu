@@ -1,26 +1,26 @@
-Le programme propose ‡ l'utilisateur un menu de 6 options :
+Le programme propose √† l'utilisateur un menu de 6 options :
 
-          1- Ajouter un element au tableau;
+          1- Ajout√© un √©l√©ment au tableau;
 
-          2-Afficher le tableau;
+          2-Affich√© le tableau;
 
-          3-Supprimer un element du tableau;
+          3-Supprim√© un √©l√©ment du tableau;
 
-          4-Enregistrer le taleau dans un fichier texte;
+          4-Enregistr√© le taleau dans un fichier texte;
 
           5-Ouvrir et afficher le fichier texte contenant le tableau;
 
-          6-QUITTER
+          6-QUITT√â
 
 
 
 
 
-          L'utilisateur va opÈrÈ un choix parmi les 6 options et ‡ chaque choix une fonction sera appellÈ pour rÈaliser
-          la t‚che correspondante. Nous avons donc crÈÈ 5 fonctions rÈalisant chacune de ces actions et pour l'option six,
-          nous avons optÈ pour l'utilisation d'un boolean. Lorsque l'utilisateur
-          entre une option inexistante par exemple la valeur 8, le programme affiche un tmessage pour lui demander de refaire
-          son choix en veillant ‡ ce que son choix soit entre 1 et 6.
-          Le programme prend en compte Ègalement les erreurs au cours de l'ouverture des fichiers.
-          Les options seront reproposÈes  ‡ l'utilisateur aprËs chaque opÈration j'usqu'a ce qu'il choisisent l'option 6 qui
-          correspond ‡ quitter
+          L'utilisateur va op√©r√© un choix parmi les 6 options et √† chaque choix une fonction sera appell√© pour r√©aliser
+          la t√¢che correspondante. Nous avons donc cr√©√© 5 fonctions . Chaque fonction r√©alise une option du menu  et pour l'option six,
+          nous avons opt√© pour l'utilisation d'un boolean.
+          Lorsque l'utilisateur entre une option inexistante par exemple la valeur 8, le programme affiche un message pour lui demander de refaire
+          son choix en veillant √† ce que son choix soit entre 1 et 6.
+          Le programme prend en compte √©galement les erreurs au cours de l'ouverture des fichiers.
+          Le menu sera repropos√© √† l'utilisateur apr√®s chaque op√©ration j'usqu'a ce qu'il choisisent l'option 6 qui
+          correspond √† quitter
